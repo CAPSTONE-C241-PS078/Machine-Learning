@@ -1,6 +1,7 @@
 <h1 align="center">CatarActNow - Machine Learning Documentation</h1>
 <p align="center">
-  ![mockup](https://github.com/CAPSTONE-C241-PS078/Machine-Learning/assets/99121625/226221e6-0efb-4bfd-8584-c074f2cb7d7f)
+  <img src="https://github.com/CAPSTONE-C241-PS078/Machine-Learning/assets/mockup.png
+" alt="Deskripsi Gambar" style="width:100%;">
 </p>
 
 ## Dataset
