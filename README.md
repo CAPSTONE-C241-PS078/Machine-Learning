@@ -1,7 +1,7 @@
 <h1 align="center">CatarActNow - Machine Learning Documentation</h1>
-<p align="center"</p>
- 
-![image](https://github.com/CAPSTONE-C241-PS078/Machine-Learning/assets/99121625/1860db1d-e310-46ed-88ef-c6edc6d39b57)
+<p align="center">
+  <img src="https://github.com/CAPSTONE-C241-PS078/Machine-Learning/assets/99121625/68274782-374f-42de-b450-7d672f6be9e7/overview.png" alt="Deskripsi Gambar" style="width:100%;">
+</p>
 
 ## Dataset
 <p align="left">
