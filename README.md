@@ -1,8 +1,8 @@
 <h1 align="center">CatarActNow - Machine Learning Documentation</h1>
-<p align="center">
-  <img src="https://github.com/CAPSTONE-C241-PS078/Machine-Learning/assets/mockup.png
-" alt="Deskripsi Gambar" style="width:100%;">
-</p>
+![mockup](https://github.com/CAPSTONE-C241-PS078/Machine-Learning/assets/99121625/8ec83d60-f729-4b38-be47-ba85d6b6b44e)
+<p align="center"</p>
+ 
+
 
 ## Dataset
 <p align="left">
@@ -37,8 +37,7 @@ Train DenseNet models using image datasets that are already labeled in the train
 ### Model Accuracy & Lose
 <code>- loss: 0.0931 - accuracy: 0.9635 - val_loss: 0.0503 - val_accuracy: 0.9841</code>
 <p align="left">
-  <img src="https://github.com/CAPSTONE-C241-PS078/Machine-Learning/blob/5ca777939c3bc31231e08926a78d546da219ea9a/Result/Accuration%20and%20Loss.png
-" alt="Deskripsi Gambar" style="width:50%; border: 1px solid black;">
+  <img src="https://github.com/CAPSTONE-C241-PS078/Machine-Learning/blob/5ca777939c3bc31231e08926a78d546da219ea9a/Result/Accuration%20and%20Loss.png" alt="Deskripsi Gambar" style="width:50%; border: 1px solid black;">
 </p>
 
 ### Evaluate Model
@@ -47,19 +46,16 @@ Train DenseNet models using image datasets that are already labeled in the train
 
 ### Classification Report at Test Dataset
 <p align="left">
-  <img src="https://github.com/CAPSTONE-C241-PS078/Machine-Learning/blob/5ca777939c3bc31231e08926a78d546da219ea9a/Result/Classification%20Report.png
-" alt="Deskripsi Gambar" style="width:50%; border: 1px solid black;">
+  <img src="https://github.com/CAPSTONE-C241-PS078/Machine-Learning/blob/5ca777939c3bc31231e08926a78d546da219ea9a/Result/Classification%20Report.png" alt="Deskripsi Gambar" style="width:50%; border: 1px solid black;">
 </p>
 
 ### Confusion Matrix at Test Dataset
 <p align="left">
-  <img src="https://github.com/CAPSTONE-C241-PS078/Machine-Learning/blob/5ca777939c3bc31231e08926a78d546da219ea9a/Result/Confusion%20Matrix.png
-" alt="Deskripsi Gambar" style="width:50%; border: 1px solid black;">
+  <img src="https://github.com/CAPSTONE-C241-PS078/Machine-Learning/blob/5ca777939c3bc31231e08926a78d546da219ea9a/Result/Confusion%20Matrix.png" alt="Deskripsi Gambar" style="width:50%; border: 1px solid black;">
 </p>
 
 ## Example Prediction
 <p align="left">
-  <img src="https://github.com/CAPSTONE-C241-PS078/Machine-Learning/blob/5ca777939c3bc31231e08926a78d546da219ea9a/Result/Predict%20image%20(1).png
-" alt="Deskripsi Gambar" style="width:100%; border: 1px solid black;">
+  <img src="https://github.com/CAPSTONE-C241-PS078/Machine-Learning/blob/5ca777939c3bc31231e08926a78d546da219ea9a/Result/Predict%20image%20(1).png" alt="Deskripsi Gambar" style="width:100%; border: 1px solid black;">
 </p>
 
