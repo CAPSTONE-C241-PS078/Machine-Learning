@@ -37,7 +37,7 @@ Train DenseNet models using image datasets that are already labeled in the train
 ### Model Accuracy & Lose
 <code>- loss: 0.0931 - accuracy: 0.9635 - val_loss: 0.0503 - val_accuracy: 0.9841</code>
 <p align="left">
-  <img src="[![Accuration and Loss](https://github.com/CAPSTONE-C241-PS078/Machine-Learning/assets/99121625/8a7a3ed5-f2e4-43b6-a0b0-9dd84dc1ed31)](https://github.com/CAPSTONE-C241-PS078/Machine-Learning/blob/5ca777939c3bc31231e08926a78d546da219ea9a/Result/Accuration%20and%20Loss.png)
+  <img src="https://github.com/CAPSTONE-C241-PS078/Machine-Learning/blob/5ca777939c3bc31231e08926a78d546da219ea9a/Result/Accuration%20and%20Loss.png
 " alt="Deskripsi Gambar" style="width:50%; border: 1px solid black;">
 </p>
 
@@ -47,19 +47,19 @@ Train DenseNet models using image datasets that are already labeled in the train
 
 ### Classification Report at Test Dataset
 <p align="left">
-  <img src="[![Classification Report](https://github.com/CAPSTONE-C241-PS078/Machine-Learning/assets/99121625/f1059931-80db-4a3c-8e33-d8cc307c006b)](https://github.com/CAPSTONE-C241-PS078/Machine-Learning/blob/5ca777939c3bc31231e08926a78d546da219ea9a/Result/Classification%20Report.png)
+  <img src="https://github.com/CAPSTONE-C241-PS078/Machine-Learning/blob/5ca777939c3bc31231e08926a78d546da219ea9a/Result/Classification%20Report.png
 " alt="Deskripsi Gambar" style="width:50%; border: 1px solid black;">
 </p>
 
 ### Confusion Matrix at Test Dataset
 <p align="left">
-  <img src="[![Confusion Matrix](https://github.com/CAPSTONE-C241-PS078/Machine-Learning/assets/99121625/79ca498b-0ef2-4e97-b583-8ff979da44a4)](https://github.com/CAPSTONE-C241-PS078/Machine-Learning/blob/5ca777939c3bc31231e08926a78d546da219ea9a/Result/Confusion%20Matrix.png)
+  <img src="https://github.com/CAPSTONE-C241-PS078/Machine-Learning/blob/5ca777939c3bc31231e08926a78d546da219ea9a/Result/Confusion%20Matrix.png
 " alt="Deskripsi Gambar" style="width:50%; border: 1px solid black;">
 </p>
 
 ## Example Prediction
 <p align="left">
-  <img src="[![Uploading Predict image (1).png…]()](https://github.com/CAPSTONE-C241-PS078/Machine-Learning/blob/5ca777939c3bc31231e08926a78d546da219ea9a/Result/Predict%20image%20(1).png)
+  <img src="https://github.com/CAPSTONE-C241-PS078/Machine-Learning/blob/5ca777939c3bc31231e08926a78d546da219ea9a/Result/Predict%20image%20(1).png
 " alt="Deskripsi Gambar" style="width:100%; border: 1px solid black;">
 </p>
 
